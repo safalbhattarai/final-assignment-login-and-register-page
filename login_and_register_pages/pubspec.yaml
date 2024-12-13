@@ -64,7 +64,6 @@ flutter:
   assets:
     - assets/images/login_image.png
     - assets/images/reegister.jpg
-    
     - assets/images/logoo.png
     - assets/images/onboarding1.jpg
     - assets/images/onboarding2.jpg
